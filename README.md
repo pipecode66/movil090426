@@ -33,6 +33,8 @@ npm install
 npm run start
 ```
 
+El proyecto inicia en modo offline para evitar validaciones remotas de Expo que no son necesarias para este taller.
+
 3. Abrir la app con Expo Go en el celular o ejecutar en un emulador:
 
 ```bash
